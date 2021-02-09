@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mithilesh Chellappan</h1>
 <h3 align="center">Another dev from India</h3>
 
-- 🔭 I’m currently working on [Stock Application](<private>)
+- 🔭 I’m currently working on [mean-starter](https://github.com/mithileshchellappan/mean-starter)
 
 - 🌱 I’m currently learning **MEAN Stack, Docker**
 
