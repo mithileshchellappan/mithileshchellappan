@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Mithilesh
+### Hi there 👋
 #### Computer Science Student
  **WEAR A MASK**
 
