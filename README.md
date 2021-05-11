@@ -10,6 +10,6 @@ Skills: FLUTTER / REACT / JS / PYTHON / NODE.JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithileshchellappan)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mithileshchellappan&show_icons=true)  
-[![My github stats](https://github-readme-stats.vercel.app/api?username=mithileshchellappan)](https://github.com/mithileshchellappan/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mithileshchellappan&show_icons=true) 
+![](https://komarev.com/ghpvc/?username=mithileshchellappan)
 
