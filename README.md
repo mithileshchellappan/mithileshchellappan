@@ -24,8 +24,3 @@
 <a href = 'https://www.linkedin.com/in/mithileshpc'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/m1thil3sh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/mithileshchellappan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-<h2> GitHub Stats  </h2>
-
-![Metrics](https://github-readme-stats.vercel.app/api?username=mithileshchellappan&show_icons=true&theme=radical)
