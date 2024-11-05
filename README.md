@@ -2,12 +2,12 @@
 ![visitors](https://komarev.com/ghpvc/?username=mithileshchellappan)
 
 </p>
-<div size='20px'> College student.
+<div size='20px'> Engineering Lead
 </div>
 
 <h2> About Me </h2>
 
-- 🌱 I’m currently learning Redux, Docker, Kubernets 
+Node.JS, React & Swift
 
 
 <h2> Skills </h2>
