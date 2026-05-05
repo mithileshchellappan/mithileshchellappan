@@ -25,7 +25,7 @@ I like owning the parts of software that quietly decide whether a product works:
 
 - Engineering Lead at Arkade Club, owning backend infrastructure for Apple-featured apps used by 3M+ people.
 - Creator of [Pushboy](https://github.com/mithileshchellappan/pushboy), a Go-based SNS alternative for self-hosted push notifications, Live Activities, delivery receipts, scheduling, topics, and dispatch state.
-- Core contributor to [App Store Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI), with 31+ merged PRs across TestFlight, IAPs, subscriptions, pricing, localization, screenshots, auth, and workflows.
+- Primary contributor to [App Store Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI), with 31+ merged PRs across TestFlight, IAPs, subscriptions, pricing, localization, screenshots, auth, and workflows.
 - Built and launched iOS products including [Focus Rail](https://github.com/mithileshchellappan/Focus-Rail), with Mapbox, SwiftUI, embedded SQLite, RevenueCat, and App Store workflows.
 - Winner of the RevenueCat Shipaton 2025 $10,000 prize for Dripped, an AI wardrobe app with RAG-powered recommendations.
 
