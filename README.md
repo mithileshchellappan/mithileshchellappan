@@ -26,7 +26,7 @@ I like owning the parts of software that quietly decide whether a product works:
 - Engineering Lead at Arkade Club, owning backend infrastructure for Apple-featured apps used by 3M+ people.
 - Creator of [Pushboy](https://github.com/mithileshchellappan/pushboy), a Go-based SNS alternative for self-hosted push notifications, Live Activities, delivery receipts, scheduling, topics, and dispatch state.
 - Primary contributor to [App Store Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI), with 31+ merged PRs across TestFlight, IAPs, subscriptions, pricing, localization, screenshots, auth, and workflows.
-- Built and launched iOS products including [Focus Rail](https://github.com/mithileshchellappan/Focus-Rail), with Mapbox, SwiftUI, embedded SQLite, RevenueCat, and App Store workflows.
+- Built and launched iOS products including [Focus Rail](https://apps.apple.com/us/app/focus-rail-pomodoro-timer/id6758016543), with Mapbox, SwiftUI, embedded SQLite, RevenueCat, and App Store workflows.
 - Winner of the RevenueCat Shipaton 2025 $10,000 prize for Dripped, an AI wardrobe app with RAG-powered recommendations.
 
 ### Selected work
@@ -35,8 +35,8 @@ I like owning the parts of software that quietly decide whether a product works:
 | --- | --- |
 | [Pushboy](https://github.com/mithileshchellappan/pushboy) | Go notification infrastructure with Postgres storage, worker pipelines, APNs/FCM dispatch, OpenAPI docs, Docker setup, and Live Activity support. |
 | [App Store Connect CLI](https://github.com/rorkai/App-Store-Connect-CLI) | Open-source contributor to a 4k+ star CLI used to automate Apple developer workflows. |
-| [Focus Rail](https://github.com/mithileshchellappan/Focus-Rail) | Shipped iOS focus timer that turns Pomodoro sessions into train journeys with maps, history, subscriptions, and route data. |
-| [Dripped iOS](https://github.com/mithileshchellappan/dripped-ios) / [Backend](https://github.com/mithileshchellappan/dripped-backend) | AI outfit recommendation product using Cloudflare Workers, TypeScript, embeddings, vector search, and LLM orchestration. |
+| [Focus Rail](https://apps.apple.com/us/app/focus-rail-pomodoro-timer/id6758016543) | Shipped iOS focus timer that turns Pomodoro sessions into train journeys with maps, history, subscriptions, and route data. |
+| [Dripped iOS](https://apps.apple.com/us/app/outfit-closet-fits-dripped/id6749790183) | AI outfit recommendation product using Cloudflare Workers, TypeScript, embeddings, vector search, and LLM orchestration. |
 | [Pokemote](https://github.com/mithileshchellappan/pokemote) | 70+ star MCP server and real-time TV control system using Server-Sent Events and semantic search. |
 | [ConvJobs](https://github.com/mithileshchellappan/convjobs) | Hackathon-winning AI hiring platform with React/Vite, Convex, Clerk, OpenAI embeddings, and conversational candidate search. |
 
