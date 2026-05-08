@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:mithilesh153@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/mithileshpc">LinkedIn</a> |
-  <a href="https://twitter.com/m1thil3sh">X</a>
+  <a href="https://twitter.com/notagodzilla">X</a>
 </p>
 
 <p align="center">
